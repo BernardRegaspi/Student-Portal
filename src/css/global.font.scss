@@ -1,0 +1,17 @@
+@font-face {
+font-family: "Raleway Regular";
+src: url(./fonts/Raleway-Regular.woff);
+}
+
+@font-face {
+font-family: "Raleway Black";
+src: url(./fonts/Raleway-Black.woff);
+}
+
+* {
+    font-family: "Raleway Regular";
+}
+
+.black-font {
+    font-family: "Raleway Black";
+}
